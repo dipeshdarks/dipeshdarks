@@ -27,7 +27,7 @@ A modern, responsive clone of the Grand Theft Auto VI promotional website, inspi
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone [git clone https://github.com/dipeshdarks/dipeshdarks]
 ```
 
 2. Navigate to the project directory:
